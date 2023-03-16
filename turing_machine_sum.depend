@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678945047 source:d:\tmp\c\turing_machine_sum\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
